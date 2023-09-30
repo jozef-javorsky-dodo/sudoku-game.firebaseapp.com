@@ -1,0 +1,30 @@
+table {
+    margin-left: 3cm;
+    border-radius: 2mm;
+}
+
+table,
+td {
+    border: 1mm solid rgb(0, 0, 0);
+    border-spacing: 1mm;
+}
+
+td {
+    width: 5mm;
+    height: 2mm;
+    font-size: 7mm !important;
+    padding: 1mm 1mm 1mm 1mm;
+    color: rgb(122, 122, 122);
+}
+
+.ColoringBttn {
+    margin-left: 1cm;
+}
+
+.GameBttn {
+    margin-left: 33mm;
+}
+
+#solve-bttn {
+    visibility: hidden;
+}
